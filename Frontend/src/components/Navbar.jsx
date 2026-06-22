@@ -110,7 +110,7 @@ function Navbar() {
                   Interview History
                 </button>
                 <button
-                  onClick={handelLogout}
+                  onClick={handleLogout}
                   className="w-full text-left text-sm py-2 flex items-center gap-2 text-red-500"
                 >
                   <HiOutlineLogout size={16} />

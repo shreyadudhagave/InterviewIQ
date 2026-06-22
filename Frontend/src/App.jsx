@@ -12,7 +12,7 @@ import Pricing from "./pages/Pricing";
 import InterviewReport from "./pages/InterviewReport";
 import PaymentSuccess from "./pages/PaymentSuccess";
 
-export const ServerUrl = "http://localhost:8000";
+export const ServerUrl = "https://interviewiq-azgc.onrender.com";
 
 function App() {
   const dispatch = useDispatch();
